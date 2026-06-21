@@ -1,7 +1,7 @@
 Домашка по папочкам разложена в `.md` как просили.
 
-HM #1 - https://github.com/maksimkajava-create/finalproject/commit/472686bd6ded1cee2fa5e1412e433ef813ff2ffc
-HM #2 - https://github.com/maksimkajava-create/finalproject/edit/main/HM%202/product_prototype.md
+HM #1 - https://github.com/maksimkajava-create/finalproject/commit/472686bd6ded1cee2fa5e1412e433ef813ff2ffc  
+HM #2 - https://github.com/maksimkajava-create/finalproject/edit/main/HM%202/product_prototype.md  
 HM #3 - https://github.com/maksimkajava-create/finalproject/blob/main/HM%203/benchmark.md
 
 ## 📚 Домашние задания
